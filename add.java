@@ -10,7 +10,11 @@ public class add {
 }
  class add1 {
   public static void main(String[] args) {
+<<<<<<< HEAD
     System.out.println("Suryabh");
+=======
+    System.out.println("Surya12");
+>>>>>>> 2680fc2 (new file)
 
 
   }
