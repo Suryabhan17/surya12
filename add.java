@@ -11,12 +11,19 @@ public class add {
  class add1 {
   public static void main(String[] args) {
 
+<<<<<<< HEAD
     System.out.println("Suryabh45");
 
     System.out.println("Surya1245");
 
     
 
+=======
+    System.out.println("Suryabh");
+
+    System.out.println("Surya1245");
+
+>>>>>>> main
 
 
   }
