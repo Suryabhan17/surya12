@@ -15,7 +15,7 @@ public class add {
 
     System.out.println("Suryabh4559645surya");
     
-    System.out.println("Suryabh45596Suryabhan456845845");
+    System.out.println(2);
 
 
 
