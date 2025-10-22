@@ -18,21 +18,17 @@ public class add {
 
     
 
-<<<<<<< HEAD
-=======
 
-    System.out.println("Suryabh45");
->>>>>>> 699d5e0 (new)
+
+    System.out.println("Suryabh45596");
+
 
     System.out.println("Suryabh45");
 
     
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 699d5e0 (new)
 
 
   }
