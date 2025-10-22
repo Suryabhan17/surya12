@@ -2,7 +2,7 @@
 package surya12;
 public class add {
   public static void main(String[] args) {
-    System.out.println("Surya12");
+  
     System.out.println("surya4545");
 
 
@@ -14,26 +14,12 @@ public class add {
 
     System.out.println("Suryabh45");
 
-    System.out.println("Surya1245");
+    
 
     
 
 
 
-    System.out.println("Suryabh45596");
-
-
-    System.out.println("Suryabh45");
-
-    System.out.println("Suryabh4589");
-
-    
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 699d5e0 (new)
 
 
   }
