@@ -10,16 +10,10 @@ public class add {
 }
  class add1 {
   public static void main(String[] args) {
-    
-
-    
-
-    
+  
 
 
-
-
-    System.out.println("Suryabh4559645");
+    System.out.println("Suryabh4559645surya");
 
 
 
