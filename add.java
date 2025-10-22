@@ -3,7 +3,7 @@ package surya12;
 public class add {
   public static void main(String[] args) {
   
-    System.out.println("surya4545");
+    System.out.println("surya4545Suryabhan");
 
 
   }
@@ -20,8 +20,7 @@ public class add {
 
 
 
-<<<<<<< HEAD
-=======
+
     System.out.println("Suryabh45596");
 
 
@@ -32,7 +31,7 @@ public class add {
     
 
 
->>>>>>> main
+
 
 
   }
