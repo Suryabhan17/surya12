@@ -12,14 +12,27 @@ public class add {
   public static void main(String[] args) {
 
 
-    System.out.println("Suryabh45");
+    
+
+    
+
+    
+
+
+
+<<<<<<< HEAD
+=======
+    System.out.println("Suryabh45596");
+
+
+
 
     
 
     
 
 
-
+>>>>>>> main
 
 
   }
