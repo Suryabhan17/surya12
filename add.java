@@ -25,10 +25,15 @@ public class add {
 
     System.out.println("Suryabh45");
 
+    System.out.println("Suryabh4589");
+
     
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 699d5e0 (new)
 
 
   }
